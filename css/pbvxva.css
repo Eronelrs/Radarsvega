@@ -1,0 +1,12 @@
+.pens-link
+    display: inline-block
+    margin: 60px auto
+    padding: 1em 2em
+    font: bold 1rem sans-serif
+    text-decoration: none
+    color: #bbb
+    border-radius: 8px
+    border: 2px solid #ddd
+    transition: .3s
+    &:hover
+        background: #fff
